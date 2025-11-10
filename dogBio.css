@@ -62,3 +62,9 @@ nav ul {
 #interests-list {
     grid-column: 2 / span 2;
 }
+
+.dark-mode {
+    background-color: #222;
+    color: blue;
+    border: 10px solid red;
+}
